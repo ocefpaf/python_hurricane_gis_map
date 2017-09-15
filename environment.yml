@@ -1,0 +1,17 @@
+name: hurricane
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - arrow
+  - bokeh
+  - cf_units
+  - folium
+  - geopandas
+  - ioos_tools
+  - jupyter
+  - pandas
+  - pyoos
+  - retrying
+  - shapely
